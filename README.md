@@ -1,0 +1,4 @@
+homebrew-zbar
+=============
+
+homebrew-zbar
