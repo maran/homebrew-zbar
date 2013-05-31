@@ -22,7 +22,6 @@ class Zbar < Formula
     args = %W[
       --disable-dependency-tracking
       --prefix=#{prefix}
-      --disable-video
       --without-gtk
     ]
 
